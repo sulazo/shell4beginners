@@ -114,6 +114,5 @@ NAME="Brad"
 # CREATE FOLDER AND WRITE TO A FILE(comine mutiple commands together to erform a task and create a script- out of it)
 mkdir sholaDirectory
 touch "sholaDirectory/hello.txt"
-# cat 
 echo"Hello World" >> sholaDirectory/hello.txt
 echo "created hello/world.txt"
