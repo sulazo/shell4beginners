@@ -74,7 +74,7 @@ NAME="Brad"
 #    echo "You can have a beer"
 #    ;;
 #   [nN] | [nN][oO] )
-#     echo "You are a minor,no beer!";;
+#     echo "";;
 #   *)
 #  echo "Please enter y/yes or n/no";;
 # esac
