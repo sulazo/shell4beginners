@@ -111,7 +111,7 @@ NAME="Brad"
 # }
 # greet "Brad" "45"
 
-# CREATE FOLDER AND WRITE TO A FILE(comine mutiple commands together to erform a task and create a script- out of it)
+# CREATE FOLDER AND WRITE TO A FILE(comine mutiple commands together to perform a task and create a script- out of it)
 mkdir sholaDirectory
 touch "sholaDirectory/hello.txt"
 echo"Hello World" >> sholaDirectory/hello.txt
